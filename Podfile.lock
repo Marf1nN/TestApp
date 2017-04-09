@@ -1,0 +1,17 @@
+PODS:
+  - AMTagListView (1.5.0)
+  - ImageSlideshow (1.0.0):
+    - ImageSlideshow/Core (= 1.0.0)
+  - ImageSlideshow/Core (1.0.0)
+
+DEPENDENCIES:
+  - AMTagListView
+  - ImageSlideshow
+
+SPEC CHECKSUMS:
+  AMTagListView: 08ab67466c67152f6299bc29a13a907783b0046f
+  ImageSlideshow: 2787e10e202b79ecf5348a205c539fcc5bb8e62b
+
+PODFILE CHECKSUM: 8c8e715eef506cdf77ce6706fc3c44c86520037c
+
+COCOAPODS: 1.2.0
